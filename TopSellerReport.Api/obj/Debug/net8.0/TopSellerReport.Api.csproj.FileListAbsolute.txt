@@ -1,0 +1,74 @@
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\appsettings.json
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\TopSellerReport.Api.staticwebassets.endpoints.json
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\TopSellerReport.Api.exe
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\TopSellerReport.Api.deps.json
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\TopSellerReport.Api.runtimeconfig.json
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\TopSellerReport.Api.dll
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\TopSellerReport.Api.pdb
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\CsvHelper.dll
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\TopSellerReport.Api.csproj.AssemblyReference.cache
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\TopSellerReport.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\TopSellerReport.Api.AssemblyInfoInputs.cache
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\TopSellerReport.Api.AssemblyInfo.cs
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\TopSellerReport.Api.csproj.CoreCompileInputs.cache
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\TopSellerReport.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\TopSellerReport.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\scopedcss\bundle\TopSellerReport.Api.styles.css
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\staticwebassets\msbuild.TopSellerReport.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\staticwebassets\msbuild.TopSellerReport.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.TopSellerReport.Api.props
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TopSellerReport.Api.props
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TopSellerReport.Api.props
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\TopSelle.99330997.Up2Date
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\TopSellerReport.Api.dll
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\refint\TopSellerReport.Api.dll
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\TopSellerReport.Api.pdb
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\TopSellerReport.Api.genruntimeconfig.cache
+C:\.NET Projects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\ref\TopSellerReport.Api.dll
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\appsettings.json
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\TopSellerReport.Api.staticwebassets.endpoints.json
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\TopSellerReport.Api.exe
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\TopSellerReport.Api.deps.json
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\TopSellerReport.Api.runtimeconfig.json
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\TopSellerReport.Api.dll
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\TopSellerReport.Api.pdb
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\CsvHelper.dll
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\TopSellerReport.Api.csproj.AssemblyReference.cache
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\TopSellerReport.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\TopSellerReport.Api.AssemblyInfoInputs.cache
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\TopSellerReport.Api.AssemblyInfo.cs
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\TopSellerReport.Api.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\TopSellerReport.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\TopSellerReport.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\scopedcss\bundle\TopSellerReport.Api.styles.css
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\staticwebassets\msbuild.TopSellerReport.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\staticwebassets\msbuild.TopSellerReport.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.TopSellerReport.Api.props
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TopSellerReport.Api.props
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TopSellerReport.Api.props
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\TopSelle.99330997.Up2Date
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\TopSellerReport.Api.dll
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\refint\TopSellerReport.Api.dll
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\TopSellerReport.Api.pdb
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\TopSellerReport.Api.genruntimeconfig.cache
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Api\obj\Debug\net8.0\ref\TopSellerReport.Api.dll

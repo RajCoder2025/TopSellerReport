@@ -1,0 +1,7 @@
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_TopSellerReport.Tests
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_TopSellerReport.Tests
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Tests\obj\Debug\net9.0\TopSellerReport.Tests.csproj.AssemblyReference.cache
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Tests\obj\Debug\net9.0\TopSellerReport.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Tests\obj\Debug\net9.0\TopSellerReport.Tests.AssemblyInfoInputs.cache
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Tests\obj\Debug\net9.0\TopSellerReport.Tests.AssemblyInfo.cs
+C:\DotNetProjects\TopSellerReport\TopSellerReport.Tests\obj\Debug\net9.0\TopSellerReport.Tests.csproj.CoreCompileInputs.cache
